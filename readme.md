@@ -5,7 +5,7 @@ http://infocentropadrechacinvdlp.esy.es/
 
 ## Requerimientos
 
-- PHP >= 5.5
+- PHP >=5.6.4
 - MySQL
 - Git
 - Composer
